@@ -44,7 +44,7 @@ Stores established longer ago (`Outlet_Years` > 20) showed significantly higher 
    pip install -r requirements.txt
 3. Run the notebook:
    ```bash
-   jupyter notebook Big_Mart_Sales.ipynb
+   jupyter notebook Mart_Sales.ipynb
 
 📜 License
 This project is licensed under the MIT License.
